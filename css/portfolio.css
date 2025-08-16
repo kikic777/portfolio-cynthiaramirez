@@ -1,0 +1,71 @@
+/*  colors:
+#f0f2ef - white smoke
+#afd5aa - celadon
+#4f772d - fern green
+#31572c - hunter green
+#132a13 - dark green
+*/
+
+[data-tab-content] {
+  display: none;
+}
+
+.active[data-tab-content] {
+  display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
+.tabs{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid black;
+}
+
+.tab {
+  cursor: pointer;
+  padding: 10px;
+}
+
+.tab:hover {
+  color: green;
+}
+
+.tab-content {
+  margin-left: 1px;
+  margin-right: 1px;
+  background: #f0f2ef;
+  border: 20px solid #f0f2ef;
+  
+}
+
+.minitab {
+  cursor: pointer;
+  padding: 10px;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.minitab:hover {
+  color: green;
+}
+ 
+
+a:link, a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #afd5aa;
+  background-color: transparent;
+  text-decoration: underline;
+}
