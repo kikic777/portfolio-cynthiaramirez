@@ -1,10 +1,8 @@
-/*  colors:
-#f0f2ef - white smoke
-#afd5aa - celadon
-#4f772d - fern green
-#31572c - hunter green
-#132a13 - dark green
-*/
+body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
 
 [data-tab-content] {
   display: none;
@@ -12,12 +10,6 @@
 
 .active[data-tab-content] {
   display: block;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  background: white;
 }
 
 .tabs{
@@ -69,3 +61,10 @@ a:hover {
   text-decoration: underline;
 }
 
+/*  colors:
+#f0f2ef - white smoke
+#afd5aa - celadon
+#4f772d - fern green
+#31572c - hunter green
+#132a13 - dark green
+*/
