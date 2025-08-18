@@ -12,6 +12,7 @@ body {
   display: block;
 }
 
+/*
 .tabs{
   display: flex;
   justify-content: space-around;
@@ -60,6 +61,7 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+*/
 
 /*  colors:
 #f0f2ef - white smoke
