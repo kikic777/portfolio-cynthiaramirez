@@ -62,6 +62,17 @@ a:hover {
 }
 
 
+div.scroll-container {
+  background-color: #31572c;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
 /*  colors:
 #f0f2ef - white smoke
 #afd5aa - celadon
