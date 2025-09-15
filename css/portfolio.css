@@ -4,6 +4,13 @@ body {
   background: white;
 }
 
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 [data-tab-content] {
   display: none;
 }
