@@ -27,6 +27,7 @@ body {
 
 .tabs{
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   list-style-type: none;
   margin: 0;
