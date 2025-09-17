@@ -17,6 +17,12 @@ body {
   width: 60%;
 }
 
+#aboutme-picture{
+  float: left;
+  height: 200;
+  margin: 20;
+}
+
 [data-tab-content] {
   display: none;
 }
