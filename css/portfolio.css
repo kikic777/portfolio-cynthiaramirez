@@ -14,12 +14,13 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: "60%";
 }
 
 #aboutme-picture{
   float: left;
-  width: 30%;
   margin: 20;
+  width: "30%";
 }
 
 [data-tab-content] {
