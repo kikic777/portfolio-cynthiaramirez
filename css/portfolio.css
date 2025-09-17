@@ -19,7 +19,7 @@ body {
 
 #aboutme-picture{
   float: left;
-  height: 200;
+  width: 100;
   margin: 20;
 }
 
