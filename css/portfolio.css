@@ -16,11 +16,11 @@ body {
   margin-right: auto;
 }
 
-#aboutme-picture{
+#aboutme-picture {
   float: left;
   margin-left: auto;
   margin-right: auto;
-  padding: 20;
+  padding: 200;
 }
 
 [data-tab-content] {
