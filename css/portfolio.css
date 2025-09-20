@@ -95,8 +95,8 @@ div.scroll-container img {
 
 div.scrollcontainer {
   background-color: #31572c;
-  width: 500;
-  height: 450;
+  width: 350px;
+  height: 425px;
   overflow-y: scroll;
   padding: 10px;
 }
